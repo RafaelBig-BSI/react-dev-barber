@@ -8,21 +8,21 @@ export const Services = () => {
                 </div>
                 <section className="haircuts">
                     <div className="haircut" data-aos="fade-up" data-aos-delay="150">
-                        <img src="src/assets/corte1.png" alt="Corte normal" />
+                        <img src="/corte1.png" alt="Corte normal" />
                         <div className="haircut-info">
                             <strong>Corte normal</strong>
                             <button>R$ 45,00</button>
                         </div>
                     </div>
                     <div className="haircut" data-aos="fade-up" data-aos-delay="250">
-                        <img src="src/assets/corte2.png" alt="Barba completa" />
+                        <img src="/corte2.png" alt="Barba completa" />
                         <div className="haircut-info">
                             <strong>Barba completa</strong>
                             <button>R$ 35,00</button>
                         </div>
                     </div>
                     <div className="haircut" data-aos="fade-up" data-aos-delay="350">
-                        <img src="src/assets/corte3.png" alt="Corte e barba" />
+                        <img src="/corte3.png" alt="Corte e barba" />
                         <div className="haircut-info">
                             <strong>Corte e barba</strong>
                             <button>R$ 55,00</button>

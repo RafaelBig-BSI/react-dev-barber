@@ -14,7 +14,7 @@ export const Navbar = () => {
                     </a>
                 </div>
                 <div className="header-logo" data-aos="fade-up" data-aos-delay="300">
-                    <img data-aos="flip-up" data-aos-delay="300" data-aos-duration="1500" src="src/assets/logo.svg" alt="Logo da barbearia" />
+                    <img data-aos="flip-up" data-aos-delay="300" data-aos-duration="1500" src="/logo.svg" alt="Logo da barbearia" />
                 </div>
                 <div data-aos="fade-down">
                     <a className="header-button" target="_blank" href="https://api.whatsapp.com/send?phone=5518999999999&text=Quero%20fazer%20um%20agendamento%20hoje!">Agendar horário</a>

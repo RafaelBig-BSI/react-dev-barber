@@ -13,7 +13,7 @@ export const Footer = () => {
                 </a>
             </div>
             <div>
-                <img src="src/assets/logo.svg" alt="Logo Barbearia" />
+                <img src="/logo.svg" alt="Logo Barbearia" />
             </div>
             <p>&copy; 2024 | Dev Barber - Todos os direitos reservados</p>
         </footer>

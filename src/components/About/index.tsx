@@ -3,7 +3,7 @@ export const About = () => {
         <section className="about">
             <div className="container about-content">
                 <div data-aos="zoom-in" data-aos-delay="100">
-                    <img src="src/assets/images.svg" alt="Imagem sobre a barbearia" />
+                    <img src="/images.svg" alt="Imagem sobre a barbearia" />
                 </div>
                 <div className="about-description" data-aos="zoom-out-left" data-aos-delay="250">
                     <h2>Sobre</h2>
